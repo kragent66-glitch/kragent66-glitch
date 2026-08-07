@@ -65,3 +65,5 @@
 - Open to: **GenAI engineering roles** · **freelance LLM/agent work** · **open-source collaborations**
 
 > *Building the plumbing that makes AI agents work — one PR at a time.*
+
+<!-- profile readme v2 -->

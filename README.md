@@ -31,9 +31,9 @@
 | Project | What it does |
 |---------|-------------|
 | [**Agent-Reach**](https://github.com/kragent66-glitch/Agent-Reach) (fork) | Multi-source research CLI — web, YouTube, RSS, Reddit, Twitter, GitHub, Bilibili & more. One CLI, zero API fees |
-| [**agent-era-learning**](https://github.com/kragent66-glitch/agent-era-learning) | Roadmap for juniors when AI writes the code — 5 skills, worked PR-review example, 30-day checklist |
-| [**reddit-digest**](https://github.com/kragent66-glitch/reddit-digest) | Apify actor + MIT source — top posts from any subreddits, no API key, RSS fallback. Live on the [Store](https://apify.com/noetic_caption/reddit-digest) |
-| [**prior-auth-agent**](https://github.com/kragent66-glitch/prior-auth-agent) | Healthcare prior-auth triage agent — LLM extraction + heuristic fallback + human-in-the-loop gate. Synthetic data, zero PHI |
+| [**agent-era-learning**](https://github.com/kragent66-glitch/agent-era-learning) | "Generation is commoditized, verification is the new moat" — a 5-min self-scored challenge on a real AI-generated PR (7 planted bugs), plus a 30-day roadmap of the skills that keep your leverage when AI writes the code |
+| [**reddit-digest**](https://github.com/kragent66-glitch/reddit-digest) | [Apify Store actor](https://apify.com/noetic_caption/reddit-digest) — subreddit digest with no API keys, RSS fallback included. $1 / 1,000 posts |
+| [**prior-auth-agent**](https://github.com/kragent66-glitch/prior-auth-agent) | Prior-authorization denial review agent — extracts denial reasons + appeal requirements from insurer letters (PHI-safe, heuristic + LLM modes) |
 | [**Geeta Bot**](https://t.me/geetakrash_bot) (@geetakrash_bot) | RAG chatbot over the Bhagavad Gita, 4 Vedas, Ramayana & Mahabharata — 8K+ embeddings, strict source citation, injection-proof |
 | **Apify actors** | [Wikipedia Article Extractor Pro](https://apify.com/noetic_caption/wikipedia-extractor) & [Reddit Top Posts Digest](https://apify.com/noetic_caption/reddit-digest) — published, passive-income actors |
 | [**aura-llm-gateway**](https://github.com/kragent66-glitch/aura-llm-gateway) (fork) | Working fork of the Rust LLM gateway — 2 PRs upstream |

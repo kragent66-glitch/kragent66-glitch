@@ -22,14 +22,16 @@
   - [#214](https://github.com/UmaiTech/aura-llm-gateway/pull/214) — backfilled missing model pricing + corrected drifted rates (guarded by tests)
   - [#215](https://github.com/UmaiTech/aura-llm-gateway/pull/215) — evaluator-onboarding notebooks (quickstart / streaming / tool-calling) + verified example index
 - **Dogfooding** my own [Agent-Reach](https://github.com/kragent66-glitch/Agent-Reach) fork as my daily research tool
+- **Shipping** a [Reddit Top Posts Digest](https://apify.com/noetic_caption/reddit-digest) Apify actor (top posts from any subreddits, no API key, RSS fallback) — open-sourced on [GitHub](https://github.com/kragent66-glitch/reddit-digest)
 
 ## 📦 Projects
 
 | Project | What it does |
 |---------|-------------|
 | [**Agent-Reach**](https://github.com/kragent66-glitch/Agent-Reach) (fork) | Multi-source research CLI — web, YouTube, RSS, Reddit, Twitter, GitHub, Bilibili & more. One CLI, zero API fees |
+| [**reddit-digest**](https://github.com/kragent66-glitch/reddit-digest) | Apify actor + MIT source — top posts from any subreddits, no API key, RSS fallback. Live on the [Store](https://apify.com/noetic_caption/reddit-digest) |
 | [**Geeta Bot**](https://t.me/geetakrash_bot) (@geetakrash_bot) | RAG chatbot over the Bhagavad Gita, 4 Vedas, Ramayana & Mahabharata — 8K+ embeddings, strict source citation, injection-proof |
-| **Apify actors** | [noetic_caption](https://apify.com/noetic_caption) & Wikipedia Article Extractor Pro — published, passive-income actors |
+| **Apify actors** | [Wikipedia Article Extractor Pro](https://apify.com/noetic_caption/wikipedia-extractor) & [Reddit Top Posts Digest](https://apify.com/noetic_caption/reddit-digest) — published, passive-income actors |
 | [**aura-llm-gateway**](https://github.com/kragent66-glitch/aura-llm-gateway) (fork) | Working fork of the Rust LLM gateway — 2 PRs upstream |
 
 ## 🛠️ Tech Stack

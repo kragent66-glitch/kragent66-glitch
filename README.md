@@ -31,7 +31,6 @@
 | Project | What it does |
 |---------|-------------|
 | [**Agent-Reach**](https://github.com/kragent66-glitch/Agent-Reach) (fork) | Multi-source research CLI — web, YouTube, RSS, Reddit, Twitter, GitHub, Bilibili & more. One CLI, zero API fees |
-| [**painfinder**](https://github.com/kragent66-glitch/painfinder) | "What should I build?" — point at a niche, get a ranked Reddit pain-point report: verbatim quotes, sources, product opportunities. LLM-clustered, CLI-driven |
 | [**agent-era-learning**](https://github.com/kragent66-glitch/agent-era-learning) | "Generation is commoditized, verification is the new moat" — a 5-min self-scored challenge on a real AI-generated PR (7 planted bugs), plus a 30-day roadmap of the skills that keep your leverage when AI writes the code |
 | [**reddit-digest**](https://github.com/kragent66-glitch/reddit-digest) | [Apify Store actor](https://apify.com/noetic_caption/reddit-digest) — subreddit digest with no API keys, RSS fallback included. $1 / 1,000 posts |
 | [**prior-auth-agent**](https://github.com/kragent66-glitch/prior-auth-agent) | Prior-authorization denial review agent — extracts denial reasons + appeal requirements from insurer letters (PHI-safe, heuristic + LLM modes) |

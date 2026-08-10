@@ -23,7 +23,7 @@
   - [#215](https://github.com/UmaiTech/aura-llm-gateway/pull/215) — evaluator-onboarding notebooks (quickstart / streaming / tool-calling) + verified example index
 - **Dogfooding** my own [Agent-Reach](https://github.com/kragent66-glitch/Agent-Reach) fork as my daily research tool
 - **Shipping** a [Reddit Top Posts Digest](https://apify.com/noetic_caption/reddit-digest) Apify actor (top posts from any subreddits, no API key, RSS fallback) — open-sourced on [GitHub](https://github.com/kragent66-glitch/reddit-digest)
-- **Building** a [prior-auth triage agent](https://github.com/kragent66-glitch/prior-auth-agent) — healthcare prior-authorization workflow demo (LLM extraction + human-in-the-loop gate, synthetic data) — my lane: clinical + GenAI
+- **Launching** [painfinder](https://github.com/kragent66-glitch/painfinder) — mine Reddit for your niche's pain points (ranked themes, verbatim quotes, sources). Free & MIT, with [live demo](https://kragent66-glitch.github.io/painfinder/)
 - **Writing** the [agent-era learning guide](https://github.com/kragent66-glitch/agent-era-learning) — a 30-day roadmap for what to learn when AI writes the code. "Generation is commoditized; verification is the new moat."
 
 ## 📦 Projects
@@ -32,6 +32,7 @@
 |---------|-------------|
 | [**Agent-Reach**](https://github.com/kragent66-glitch/Agent-Reach) (fork) | Multi-source research CLI — web, YouTube, RSS, Reddit, Twitter, GitHub, Bilibili & more. One CLI, zero API fees |
 | [**agent-era-learning**](https://github.com/kragent66-glitch/agent-era-learning) | "Generation is commoditized, verification is the new moat" — a 5-min self-scored challenge on a real AI-generated PR (7 planted bugs), plus a 30-day roadmap of the skills that keep your leverage when AI writes the code |
+| [**painfinder**](https://github.com/kragent66-glitch/painfinder) | [Live demo](https://kragent66-glitch.github.io/painfinder/) — mine Reddit for your niche's pain points: ranked themes with verbatim quotes, sources & product opportunities. Free, MIT |
 | [**reddit-digest**](https://github.com/kragent66-glitch/reddit-digest) | [Apify Store actor](https://apify.com/noetic_caption/reddit-digest) — subreddit digest with no API keys, RSS fallback included. $1 / 1,000 posts |
 | [**prior-auth-agent**](https://github.com/kragent66-glitch/prior-auth-agent) | Prior-authorization denial review agent — extracts denial reasons + appeal requirements from insurer letters (PHI-safe, heuristic + LLM modes) |
 | [**Geeta Bot**](https://t.me/geetakrash_bot) (@geetakrash_bot) | RAG chatbot over the Bhagavad Gita, 4 Vedas, Ramayana & Mahabharata — 8K+ embeddings, strict source citation, injection-proof |

@@ -18,7 +18,7 @@
 
 ## 🔭 What I'm Working On
 
-- **Running** [ASWP](https://github.com/kragent66-glitch/aswp) — an open, preregistered-style **experiment**: does training-only weight noise, annealed to zero, beat a deterministic baseline in Transformer training? Pre-results protocol, engineering spec, SAP + adversarial design review, MIT
+- **Running** [ASWP](https://github.com/kragent66-glitch/aswp) — an open, preregistered-style **experiment**: does training-only weight noise, annealed to zero, beat a deterministic baseline in Transformer training? Pre-results protocol, engineering spec, SAP + adversarial design review
 - **Open-source contributions** to [UmaiTech/aura-llm-gateway](https://github.com/UmaiTech/aura-llm-gateway) — a high-performance Rust LLM gateway implementing the Open Responses API:
   - [#214](https://github.com/UmaiTech/aura-llm-gateway/pull/214) — backfilled missing model pricing + corrected drifted rates (guarded by tests)
   - [#215](https://github.com/UmaiTech/aura-llm-gateway/pull/215) — evaluator-onboarding notebooks (quickstart / streaming / tool-calling) + verified example index
@@ -31,7 +31,7 @@
 
 | Project | What it does |
 |---------|-------------|
-| [**ASWP**](https://github.com/kragent66-glitch/aswp) | Open experiment: annealed stochastic weight perturbation for Transformer training — preregistered protocol, engineering spec, SAP + adversarial design review. Pre-results, MIT |
+| [**ASWP**](https://github.com/kragent66-glitch/aswp) | Open experiment: annealed stochastic weight perturbation for Transformer training — preregistered protocol, engineering spec, SAP + adversarial design review. Pre-results, all rights reserved |
 | [**Agent-Reach**](https://github.com/kragent66-glitch/Agent-Reach) (fork) | Multi-source research CLI — web, YouTube, RSS, Reddit, Twitter, GitHub, Bilibili & more. One CLI, zero API fees |
 | [**agent-era-learning**](https://github.com/kragent66-glitch/agent-era-learning) | "Generation is commoditized, verification is the new moat" — a 5-min self-scored challenge on a real AI-generated PR (7 planted bugs), plus a 30-day roadmap of the skills that keep your leverage when AI writes the code |
 | [**painfinder**](https://github.com/kragent66-glitch/painfinder) | [Live demo](https://kragent66-glitch.github.io/painfinder/) — mine Reddit for your niche's pain points: ranked themes with verbatim quotes, sources & product opportunities. Free, MIT |

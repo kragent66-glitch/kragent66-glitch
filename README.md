@@ -31,6 +31,7 @@
 
 | Project | What it does |
 |---------|-------------|
+| [**agent-journey**](https://github.com/kragent66-glitch/agent-journey) | [Live blog](https://kragent66-glitch.github.io/agent-journey/) — the deep technical record of building an AI agent from a phone terminal to a self-posting lab. Companion to the LinkedIn series |
 | [**ASWP**](https://github.com/kragent66-glitch/aswp) | Open experiment: annealed stochastic weight perturbation for Transformer training — preregistered protocol, engineering spec, SAP + adversarial design review. Pre-results, all rights reserved |
 | [**Agent-Reach**](https://github.com/kragent66-glitch/Agent-Reach) (fork) | Multi-source research CLI — web, YouTube, RSS, Reddit, Twitter, GitHub, Bilibili & more. One CLI, zero API fees |
 | [**agent-era-learning**](https://github.com/kragent66-glitch/agent-era-learning) | "Generation is commoditized, verification is the new moat" — a 5-min self-scored challenge on a real AI-generated PR (7 planted bugs), plus a 30-day roadmap of the skills that keep your leverage when AI writes the code |

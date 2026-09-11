@@ -62,8 +62,11 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kragent66-glitch&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kragent66-glitch&layout=compact&theme=dark&hide_border=true)
+  <!-- Daily commit activity -->
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=kragent66-glitch&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kragent66-glitch&theme=github_dark)
+  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kragent66-glitch&theme=github_dark)
 
 </div>
 
